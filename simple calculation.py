@@ -1,7 +1,7 @@
 num1=int(input("enter a number"))
 num2=int(input("enter a number"))
 print("number 1:",num1)
-print("number 2:",num2)
+print("number 2:78",num2)
 print("addition:",num1+num2)
 print("difference:",num1-num2)
 print("product:",num1*num2)
